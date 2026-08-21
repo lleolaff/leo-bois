@@ -1,17 +1,13 @@
 ---
-title: Activités
+title: "Activités"
 order: 2
+in_menu: true
 ---
+# Du bois pour vous
 
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
 
-## Nos activités
+Presque tout ce qui se fait en bois.
 
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
+Modifier une charpente, fabriquer des pinces à cornichons, un levage de grosse pièce de bois en accès difficile, habitat léger en ossature bois, mobilier d'intérieur ou d'extérieur.
 
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
-- Projets à **impact environnemental positif**
-- Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
+Accompagnement technique, de plans de fabrications, formation à l'utilisation des outils pour le travail du bois... 
