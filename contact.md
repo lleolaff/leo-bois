@@ -1,9 +1,9 @@
 ---
-title: Contact
+title: "Contact"
 order: 3
+in_menu: true
 ---
+Je travaille parfois seul, parfois en m’associant avec d'autres du coin.
 
-L'Échappée Belle est actuellement composée de 6 membres.
-
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Pour me contacter : [leonlafon@gmail.com](mailto:leonlafon@gmail.com)
+` 
